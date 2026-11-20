@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : F:\Altium\Project\IT_FRONT_PANEL\IT_FRONT_PANEL.PcbDoc
+Date         : 2026-11-02
+Time         : ¿ÀÈÄ 5:34:48
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 150mmx100mm
+    Components on board, 78
+count : 2

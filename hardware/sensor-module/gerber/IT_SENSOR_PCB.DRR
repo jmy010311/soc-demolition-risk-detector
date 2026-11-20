@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: IT_SENSOR_PCB.PcbDoc   2026-10-11  ¿ÀÈÄ 9:15:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : IT_SENSOR_PCB-Plated.TXT
+ASCII Non-Plated RoundHoles File : IT_SENSOR_PCB-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             164       PTH        1107.66mm (43.61inch)
+T2      0.7mm (28mil)                                             Round             31        PTH        254.08mm (10.00inch)
+T3      0.8mm (31mil)                                             Round             14        PTH        95.58mm (3.76inch)
+T4      1.092mm (43mil)                                           Round             2         PTH        27.50mm (1.08inch)
+T5      1.1mm (43mil)                                             Round             5         PTH        10.16mm (0.40inch)
+T6      2.4mm (94mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T7      3.2mm (126mil)                                            Round             4         NPTH       307.28mm (12.10inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              222
+
+Total Processing Time (hh:mm:ss) : 00:00:00

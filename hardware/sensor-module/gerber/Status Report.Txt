@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IT_SENSOR_PCB.PrjPcb]
+   Generated File[IT_SENSOR_PCB-Plated.TXT]
+   Generated File[IT_SENSOR_PCB-NonPlated.TXT]
+   Generated File[IT_SENSOR_PCB.LDP]
+   Generated File[IT_SENSOR_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 오후 9:15:35 On 2026-10-11

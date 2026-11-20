@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IT_FRONT_PANEL.PrjPcb]
+   Generated File[IT_FRONT_PANEL-Plated.TXT]
+   Generated File[IT_FRONT_PANEL-NonPlated.TXT]
+   Generated File[IT_FRONT_PANEL.LDP]
+   Generated File[IT_FRONT_PANEL.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 오후 6:40:41 On 2026-11-02
